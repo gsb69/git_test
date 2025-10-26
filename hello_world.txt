@@ -1,3 +1,2 @@
 helllo world 
-kaise ho
-just testing the commit messages
+new linux here s
